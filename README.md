@@ -1,6 +1,8 @@
 # Customer Intelligence & AI-driven Sales Optimization
 
-Projet pédagogique de niveau Master : transformer des données commerciales en connaissance client, puis en contenus marketing personnalisés, évalués et optimisés.
+Projet pédagogique de AI CONTENT & DATA
+
+Pôle Léonard de Vinci : Campus de l’Arche
 
 ## Objectifs
 
