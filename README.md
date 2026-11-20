@@ -1,3 +1,5 @@
+![IIM](Image.jpeg)
+
 # Customer Intelligence & AI-driven Sales Optimization
 
 Projet pédagogique de AI CONTENT & DATA
