@@ -4,6 +4,10 @@ Projet pédagogique de AI CONTENT & DATA
 
 Pôle Léonard de Vinci : Campus de l’Arche
 
+Classe : A4 AIMSA4 EDIA DATA
+
+https://www.iim.fr/cursus/mastere-ai-marketing-strategy/ 
+
 ## Objectifs
 
 - Explorer les sources PDF et Excel du cas « Le Grand Marché ».
@@ -17,8 +21,8 @@ Pôle Léonard de Vinci : Campus de l’Arche
 
 Le projet a été préparé à partir de deux documents fournis dans le cadre du TP :
 
-- `P2_Rancane_rapport_mensuel_LGM.pdf`
-- `P2_Rancane_Le_rapport_sur_les_clients_affiliés.xlsx`
+- `Rapport_mensuel_LGM.pdf`
+- `Rapport_sur_les_clients_affiliés.xlsx`
 
 **Important :** les fichiers sources ne sont volontairement pas inclus dans ce dépôt Git. Ils peuvent contenir des données commerciales ou clients. Placez-les localement dans `data/raw/` après vérification des droits de diffusion. Ne poussez jamais de données clients réelles ou confidentielles vers un dépôt public.
 
